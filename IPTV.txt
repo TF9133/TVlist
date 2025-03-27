@@ -1,20 +1,33 @@
-CCTV-1 綜合,https://yunmei.tv/cctv/cctv-1.m3u8
-CCTV-2 財經,https://yunmei.tv/cctv/cctv-2.m3u8
-CCTV-3 綜藝,https://yunmei.tv/cctv/cctv-3.m3u8
-CCTV-4 中文國際美州,https://hkcozztm28w4tku.wcetv.com/hls/cctv4.m3u8
-CCTV-5 體育,https://yunmei.tv/main/cctv-5.m3u8
-CCTV -5+ 體育賽事,https://yunmei.tv/main/cctv-5p.m3u8
-CCTV-8 電視劇,https://yunmei.tv/cctv/cctv-8.m3u8
-CCTV-9 紀錄,https://yunmei.tv/cctv/cctv-9.m3u8
-CCTV-16 奧林匹克,https://yunmei.tv/main/cctv-16.m3u8
-CGTN,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
-*CGTN,https://hkcozztm28w4tku.wcetv.com/hls/cgtn.m3u8
-廣東
-廣東衛視,https://hkcozztm28w4tku.wcetv.com/hls/gdsatellite.m3u8
-廣東國際美州台,https://hkcozztm28w4tku.wcetv.com/hls/gdtv.m3u8
-銀視數碼台（大灣區衛視）,https://hkcozztm28w4tku.wcetv.com/hls/wcetv318.m3u8
-雲南
-雲南衛視,https://hkcozztm28w4tku.wcetv.com/hls/yunnantv.m3u8
-台灣
-台視新聞,https://hkcozztm28w4tku.wcetv.com/hls/ttvnews.m3u8
-##update at 27/3/25
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png",CCTV-1 綜合
+https://yunmei.tv/cctv/cctv-1.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png",CCTV-2 財經
+https://yunmei.tv/cctv/cctv-2.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png",CCTV-3 綜藝
+https://yunmei.tv/cctv/cctv-3.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png",CCTV-4 中文國際美州
+https://hkcozztm28w4tku.wcetv.com/hls/cctv4.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png",CCTV-5 體育
+https://yunmei.tv/main/cctv-5.m3u8
+#EXTINF:-1 tvg-name="CCTV -5+ 體育賽事" tvg-logo="https://live.fanmingming.cn/tv/CCTV -5+ 體育賽事.png",CCTV -5+ 體育賽事
+https://yunmei.tv/main/cctv-5p.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png",CCTV-8 電視劇
+https://yunmei.tv/cctv/cctv-8.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png",CCTV-9 紀錄
+https://yunmei.tv/cctv/cctv-9.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png",CCTV-16 奧林匹克
+https://yunmei.tv/main/cctv-16.m3u8
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png",CGTN
+https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+#EXTINF:-1 tvg-name="*CGTN" tvg-logo="https://live.fanmingming.cn/tv/*CGTN.png",*CGTN
+https://hkcozztm28w4tku.wcetv.com/hls/cgtn.m3u8
+#EXTINF:-1 tvg-name="廣東衛視" tvg-logo="https://live.fanmingming.cn/tv/廣東衛視.png",廣東衛視
+https://hkcozztm28w4tku.wcetv.com/hls/gdsatellite.m3u8
+#EXTINF:-1 tvg-name="廣東國際美州台" tvg-logo="https://live.fanmingming.cn/tv/廣東國際美州台.png",廣東國際美州台
+https://hkcozztm28w4tku.wcetv.com/hls/gdtv.m3u8
+#EXTINF:-1 tvg-name="銀視數碼台（大灣區衛視）" tvg-logo="https://live.fanmingming.cn/tv/銀視數碼台（大灣區衛視）.png",銀視數碼台（大灣區衛視）
+https://hkcozztm28w4tku.wcetv.com/hls/wcetv318.m3u8
+#EXTINF:-1 tvg-name="雲南衛視" tvg-logo="https://live.fanmingming.cn/tv/雲南衛視.png",雲南衛視
+https://hkcozztm28w4tku.wcetv.com/hls/yunnantv.m3u8
+#EXTINF:-1 tvg-name="台視新聞" tvg-logo="https://live.fanmingming.cn/tv/台視新聞.png",台視新聞
+https://hkcozztm28w4tku.wcetv.com/hls/ttvnews.m3u8
