@@ -1,0 +1,50 @@
+中央
+CCTV-1 綜合,https://yunmei.tv/cctv/cctv-1.m3u8
+CCTV-2 財經,https://yunmei.tv/cctv/cctv-2.m3u8
+CCTV-3 綜藝,https://yunmei.tv/cctv/cctv-3.m3u8
+CCTV-4 中文國際美州,https://hkcozztm28w4tku.wcetv.com/hls/cctv4.m3u8
+CCTV-5 體育,https://yunmei.tv/main/cctv-5.m3u8
+CCTV -5+ 體育賽事,https://yunmei.tv/main/cctv-5p.m3u8
+CCTV-8 電視劇,https://yunmei.tv/cctv/cctv-8.m3u8
+CCTV-9 紀錄,https://yunmei.tv/cctv/cctv-9.m3u8
+CCTV-16 奧林匹克,https://yunmei.tv/main/cctv-16.m3u8
+CGTN,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+*CGTN,https://hkcozztm28w4tku.wcetv.com/hls/cgtn.m3u8
+廣東
+廣東衛視,https://hkcozztm28w4tku.wcetv.com/hls/gdsatellite.m3u8
+廣東國際美州台,https://hkcozztm28w4tku.wcetv.com/hls/gdtv.m3u8
+銀視數碼台（大灣區衛視）,https://hkcozztm28w4tku.wcetv.com/hls/wcetv318.m3u8
+北京
+天津
+河北
+山西
+內蒙
+遼寧
+吉林
+黑龍江
+上海
+江蘇
+浙江
+安徽
+福建
+江西
+山東
+河南
+湖北
+湖南
+廣西
+海南
+重慶
+四川
+貴州
+雲南
+雲南衛視,https://hkcozztm28w4tku.wcetv.com/hls/yunnantv.m3u8
+西藏
+陝西
+甘肅
+青海
+寧夏
+新疆
+兵團衛視,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+台灣
+台視新聞,https://hkcozztm28w4tku.wcetv.com/hls/ttvnews.m3u8
